@@ -8,6 +8,9 @@ Theoretical questions and data visualization for Iris Dataset
 #### Exercise 2: 
 Data exploration of Cleveland Dataset
 
+#### Exercise 7: 
+Theoretical questions and K-means clustering and GMM
+
 #### Exercise 8: 
 Theoretical questions and concensus clustering and NMF clustering
 
