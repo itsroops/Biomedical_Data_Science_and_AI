@@ -8,6 +8,9 @@ Data Visualization
 #### Exercise 2: 
 Data exploration
 
+#### Exercise 4: 
+Confidence Intervals and Hypothesis Testing
+
 #### Exercise 5: 
 Linear Regression and Logistic Regresion
 
