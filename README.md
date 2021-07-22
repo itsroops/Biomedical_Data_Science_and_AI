@@ -8,6 +8,9 @@ Theoretical questions and data visualization for Iris Dataset
 #### Exercise 2: 
 Data exploration of Cleveland Dataset
 
+#### Exercise 8: 
+Theoretical questions and concensus clustering and NMF clustering
+
 #### Exercise 9: 
 Theoretical questions and classification L1 penalized, l2 penalized, elastic net penalized regression and KNN
 
