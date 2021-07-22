@@ -8,6 +8,9 @@ Theoretical questions and data visualization for Iris Dataset
 #### Exercise 2: 
 Data exploration of Cleveland Dataset
 
+#### Exercise 6: 
+Theoretical questions and PCA and Hierarchihcal clustering
+
 #### Exercise 7: 
 Theoretical questions and K-means clustering and GMM
 
